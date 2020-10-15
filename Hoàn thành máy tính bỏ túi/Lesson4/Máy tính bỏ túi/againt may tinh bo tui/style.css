@@ -1,0 +1,10 @@
+button{
+    width: 100%;
+    border: 1px solid black;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+input{
+    padding-left: 5px;
+    border: 1px solid black;
+}
